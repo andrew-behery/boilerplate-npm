@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Andrew Behery"
+	"author": "Andrew Behery",
+	"description": "Learning Node.js on FreeCodeCamp"
 }
