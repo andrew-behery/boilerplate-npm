@@ -13,5 +13,6 @@
 	},
 	"author": "Andrew Behery",
 	"description": "Learning Node.js on FreeCodeCamp",
-	"keywords": [ "freecodecamp", "learningnode", "fun" ]
+	"keywords": [ "freecodecamp", "learningnode", "fun" ],
+	"license": "MIT"
 }
