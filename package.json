@@ -12,5 +12,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "Andrew Behery",
-	"description": "Learning Node.js on FreeCodeCamp"
+	"description": "Learning Node.js on FreeCodeCamp",
+	"keywords": [ "freecodecamp", "learningnode", "fun" ]
 }
